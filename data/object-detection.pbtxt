@@ -1,0 +1,21 @@
+item {
+    id: 1
+    name: 'discolor'
+}
+
+item {
+    id: 2
+    name: 'broken'
+}
+item {
+    id: 3
+    name: 'chalky'
+}
+item {
+    id: 4
+    name: 'damage'
+}
+item {
+    id: 5
+    name: 'good'
+}
